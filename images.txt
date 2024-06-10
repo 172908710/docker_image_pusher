@@ -7,5 +7,4 @@ jellyfin/jellyfin
 19970688/nastools-bt 
 linuxserver/jackett
 linuxserver/qbittorrent
-rvalessandro/ptpp-backend
-iyuucn/iyuuplus
+allanpk716/chinesesubfinder
