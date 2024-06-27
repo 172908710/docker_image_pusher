@@ -8,3 +8,5 @@ jellyfin/jellyfin
 linuxserver/jackett
 linuxserver/qbittorrent
 allanpk716/chinesesubfinder
+snowdreamtech/frpc
+stilleshan/frpc
